@@ -22,6 +22,7 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - CSS3
 - JavaScript
 - Bootstrap
+- API Rest
 
 ## 🚧 Projeto:
 
